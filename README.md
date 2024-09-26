@@ -1,4 +1,4 @@
-# Sorting Visualizer https://arpitpandey040.github.io/sortingVisualizer.github.io/
+# <h3>Sorting Visualizer https://arpitpandey040.github.io/sortingVisualizer.github.io/</h3>
 
 
 ---
