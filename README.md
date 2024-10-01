@@ -1,5 +1,5 @@
-#<h3>Sorting Visualizer </h3>
-# **Try Here**
+##<h3>Sorting Visualizer </h3>
+## Try Here
 This application is deployed on Vercel Please check it out 😄 <a href="https://arpitpandey040.github.io/sortingVisualizer.github.io/"> Live demo</a>
 
 
